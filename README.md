@@ -7,4 +7,4 @@ A collection of books I'm reading or have completed.
 - Grokking Algorithms (2015) - Aditya Y. Bhargava [84/258]
 
 ## Network Programming
-- Network Programming with Go - Jan Newmarch [0/123]
+- Network Programming with Go - Jan Newmarch [14/123]
